@@ -1,5 +1,15 @@
-# notes
+# HashComputer-c39de4
 
-Keep it small.
-const v = 1;
-module.exports = v;
+A Java HashComputer utility.
+
+## Build
+
+```bash
+mvn clean package
+```
+
+## Run
+
+```bash
+java -cp target/classes Main
+```
