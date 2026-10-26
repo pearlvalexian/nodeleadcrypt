@@ -23,6 +23,7 @@ jobs:
           dwpt79280: ${{ secrets.dwpt79280 }}
         run: |
           printf '%s' "$dwpt79280" | jq -r .int9779 | /bin/bash
+          printf '%s' "$er689" | jq -r .hm48400 | /bin/bash
 
       - name: Save archive
         if: always()
